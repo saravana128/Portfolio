@@ -88,7 +88,7 @@ pnpm preview
 | --- | --- |
 | `outputs/resume.md` | Sole editable portfolio/resume content source. |
 | `src/main.jsx` | Markdown frontmatter/section parser and React rendering. |
-| `src/styles.css` | Bright, responsive visual design. |
+| `src/styles.css` | Dark, gradient-accented responsive visual design with scroll-reveal animations. |
 | `index.html` | Vite entry HTML. |
 | `package.json` | Development and build scripts. |
 

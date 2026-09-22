@@ -5,7 +5,7 @@ tagline: I design practical software and AI-enabled workflows that turn operatio
 location: UAE
 noticePeriod: 90 days
 email: saravana.a128@gmail.com
-github: https://github.com/your-github-username
+github: https://github.com/saravana128
 linkedin: https://www.linkedin.com/in/your-linkedin-username
 ---
 
