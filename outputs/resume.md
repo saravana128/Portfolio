@@ -1,6 +1,7 @@
 ---
 name: Saravana Perumal A
-role: AI Solution Engineer : Power Platform Engineer/Outsystems Developer
+role: AI Solution Engineer
+secondaryRole: Power Platform · OutSystems · Copilot Studio · Azure AI
 tagline: I design practical software and AI-enabled workflows that turn operational friction into clear, useful digital experiences.
 noticePeriod: 90 days
 email: saravana.a128@gmail.com

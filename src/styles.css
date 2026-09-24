@@ -75,37 +75,11 @@ nav {
 main { max-width: 1120px; margin: auto; padding: 0 clamp(20px, 4vw, 42px); }
 
 .hero { padding: clamp(72px, 10vw, 116px) 0 52px; }
-.hero-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 10px;
-  margin: 0;
-  font: 500 0.72rem/1 'DM Mono', monospace;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: #a5f3fc;
-  background: rgba(34, 211, 238, 0.08);
-  border: 1px solid rgba(34, 211, 238, 0.3);
-  padding: 10px 16px;
-  border-radius: 999px;
-}
-.pulse {
-  width: 8px;
-  height: 8px;
-  border-radius: 50%;
-  background: var(--green);
-  box-shadow: 0 0 0 0 rgba(52, 211, 153, 0.55);
-  animation: pulse 2.2s infinite;
-}
-@keyframes pulse {
-  70% { box-shadow: 0 0 0 10px rgba(52, 211, 153, 0); }
-  100% { box-shadow: 0 0 0 0 rgba(52, 211, 153, 0); }
-}
 h1 {
   font-size: clamp(2.25rem, 5.4vw, 4.2rem);
   line-height: 1.07;
   letter-spacing: -0.05em;
-  margin: 26px 0 20px;
+  margin: 0 0 14px;
   max-width: 900px;
 }
 .grad {
@@ -113,6 +87,13 @@ h1 {
   -webkit-background-clip: text;
   background-clip: text;
   color: transparent;
+}
+.hero-sub {
+  margin: 0 0 20px;
+  font: 500 0.85rem/1.6 'DM Mono', monospace;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--muted);
 }
 .lede {
   color: var(--muted);
@@ -318,11 +299,6 @@ html[data-theme='light'] .grad {
   background: linear-gradient(120deg, #0787ad, #6366f1);
   -webkit-background-clip: text;
   background-clip: text;
-}
-html[data-theme='light'] .hero-badge {
-  color: #0b6b87;
-  background: rgba(8, 145, 178, 0.08);
-  border-color: rgba(8, 145, 178, 0.32);
 }
 html[data-theme='light'] .overview {
   background: linear-gradient(180deg, rgba(8, 145, 178, 0.06), rgba(99, 102, 241, 0.05)), var(--panel-2);

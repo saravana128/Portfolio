@@ -1,5 +1,6 @@
 import React from 'react';
 import { createRoot } from 'react-dom/client';
+import { Analytics } from '@vercel/analytics/react';
 import resume from '../outputs/resume.md?raw';
 import './styles.css';
 
@@ -119,8 +120,8 @@ function App() {
 
       <main id="top">
         <section className="hero">
-          <p className="hero-badge"><span className="pulse" aria-hidden="true" />{meta.location} · Available for UAE opportunities</p>
           <h1><span className="grad">{meta.role}</span></h1>
+          {meta.secondaryRole && <p className="hero-sub">{meta.secondaryRole}</p>}
           <p className="lede">{meta.tagline}</p>
           <div className="hero-actions">
             <a className="button" href="#experience">Explore experience ↓</a>
@@ -166,6 +167,8 @@ function App() {
         <span>© {new Date().getFullYear()} {meta.name}</span>
         <span>Built from one editable Markdown file · <a href="#top">Back to top ↑</a></span>
       </footer>
+
+      <Analytics />
     </>
   );
 }
