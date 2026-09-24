@@ -10,7 +10,7 @@ linkedin: https://linkedin.com/in/saravana-perumal-784873114
 ---
 
 ## Overview
-I am an aspiring Full Stack Developer with experience across .NET, Outsystems, Power Platform, Copilot, and Azure AI. I am looking for a solution-focused role where I can automate work, improve business operations, and support digital and AI transformation with Power Platform, Copilot Studio, Azure AI, Supabase, and Vercel.
+I am an aspiring Full Stack Developer with experience across .NET, Power Platform, Copilot, Azure AI and Outsystems,. I am looking for a solution-focused role where I can automate work, improve business operations, and support digital and AI transformation with Power Platform, Copilot Studio, Azure AI, Supabase, and Vercel.
 
 I bring a builder’s mindset: understand the process, connect the right services, and deliver an application people can use with confidence.
 
@@ -42,27 +42,28 @@ April 2018 - November 2020
 
 
 ## Skills
-Worked in multiple projects in multiple companies, each with different skills and different architecture. capable of handling new technologies since  i have strong in basics
+- Worked across multiple projects and organizations, gaining experience with diverse technologies, architectures, and business domains.
+- Strong foundation in core software engineering principles, enabling me to quickly learn and adapt to new technologies, frameworks, and platforms.
 
 ### Microsoft Power Platform
 - **Code Apps** — Developed multiple projects using Code Apps with React-based custom UIs.  
 - **Model-Driven Apps** — Developed back-office applications using Model-Driven Apps.  
 - **Dataverse** — Used Dataverse as the primary data source across Power Platform applications.  
 - **Canvas Apps** — Developed applications to digitalize and streamline shipping survey processes.  
-- **RLS and Role-Based Security** — Configured Row-Level Security (RLS) policies and role-based access controls to maintain application and data security.  
-- **Copilot Studio** — Implemented AI-powered vessel and customer onboarding with human-in-the-loop approval processes.  
+- **RLS, Business Units and Roles** — Configured Row-Level Security (RLS) policies and role-based access controls to maintain application and data security.   
 - **Power Automate** — Designed and implemented multiple automated flows for scheduled and on-demand actions across Power Platform applications.
 
-### Cloud & AI Technologies
-- **Azure AI Foundry** — Developed AI agents, multi-agent orchestration, and Retrieval-Augmented Generation (RAG) solutions.  
+### AI & Cloud Technologies
+- **Azure AI Foundry** — Architected and developed enterprise-grade AI solutions using AI Agents, Azure AI Search, RAG, Grounding, Agent Evaluation, Guardrails, and Serverless/Managed Model Deployments. Designed AI workflows with a focus on security, reliability, evaluation, governance, and production readiness, including agent-based and knowledge-grounded architectures.
+- **Copilot Studio** — Used this low code Agent development tool to quickly integrate with dataverse and microsoft products.Implemented AI-powered vessel and customer onboarding with human-in-the-loop approval processes. 
+- **Github Copilot** - Used as primary AI assisted Coding Tool, Configured MCPs and Customs hosted Model
 - **Microsoft Azure** — Worked with Entra ID, Azure Functions, Azure Data Factory, and Azure Logic Apps.  
 - **AWS** — Worked with Lambda, RDS, and Amplify.
 
 ### Low-Code Tools
-- **OutSystems 11** — Developed professional Reactive and Traditional Web applications for banking and logistics use cases.  
-- **Supabase + Vercel** — Developed personal and client projects using cost-efficient hosting and application management solutions.  
+- **OutSystems 11** — Certified professional Developer who worked on Reactive and Traditional Web applications. Developed banking application using Outsystems for both web and mobile 
+- **Supabase + Vercel** — Developed personal and client projects using cost-efficient hosting and application management solutions.
 - **Appwrite** — Developed client applications using Appwrite as a centralized platform for UI, database, and server-side actions.
-
 
 ### Others
 - **.NET / C#** — Started my career as a .NET Developer, working primarily with WPF for Windows-based applications.  
@@ -95,4 +96,5 @@ Worked in multiple projects in multiple companies, each with different skills an
 ## Who Shouldn't Hire Me
 - Business-critical data analytics: I can manage and develop straightforward Power BI dashboards, but I have limited experience with Microsoft Fabric and other advanced data analytics platforms.  
 - Organizations looking for expertise in other Dynamics CRM products, such as Dynamics 365 Sales or Finance.
+- Organizations looking for deep expertise in open-source AI agent orchestration frameworks such as LangChain or LangGraph. I have experience with agent-based architectures and orchestration concepts, but my primary hands-on experience is currently with the Microsoft AI ecosystem, particularly Azure AI Foundry and Copilot Studio.
 
