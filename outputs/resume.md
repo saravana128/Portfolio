@@ -1,12 +1,11 @@
 ---
 name: Saravana Perumal A
-role: AI Solution Engineer · Power Platform Engineer · Outsystems Engineer
+role: AI Solution Engineer : Power Platform Engineer/Outsystems Developer
 tagline: I design practical software and AI-enabled workflows that turn operational friction into clear, useful digital experiences.
-location: UAE
 noticePeriod: 90 days
 email: saravana.a128@gmail.com
 github: https://github.com/saravana128
-linkedin: https://www.linkedin.com/in/your-linkedin-username
+linkedin: https://linkedin.com/in/saravana-perumal-784873114
 ---
 
 ## Overview
@@ -21,7 +20,6 @@ April 2023 - Present | UAE
 - Build and enhance applications that support port calls, surveys and inspections, liner husbandry, and related operational processes.
 - Create AI-assisted workflows with **Copilot** and explore solution patterns with **Azure AI Foundry**.
 - Collaborate with business users to translate operational needs into maintainable low-code and full-stack solutions.
-- Add your strongest measurable outcomes here: adoption, hours saved, process improvements, or delivery scope.
 
 ### Senior Software Engineer | Quest Global Pvt. Ltd.
 October 2021 - April 2023
@@ -36,55 +34,64 @@ January 2021 - September 2021
 - Developed .NET extensions using Outsystems Integration Studio.
 
 ### Program Analyst | W2BI Mobile Technologies
-April 2020 - November 2020
+April 2018 - November 2020
 - Built desktop applications with WPF and C# using the MVVM pattern.
 - Created reusable UI controls, consumed REST APIs, and contributed unit tests with NUnit.
 - Worked on application installers, licensing, class diagrams, and sequence diagrams.
 
-### Wireless Engineer | SrInSoft Technologies
-May 2018 - March 2020
-- Add a concise summary of your role, responsibilities, and a meaningful accomplishment here.
 
 ## Skills
-Update this section with your skill level, specific capabilities, and certifications for each area. Keep the wording evidence-based and tailor it to the job you are applying for.
+Worked in multiple projects in multiple companies, each with different skills and different architecture. capable of handling new technologies since  i have strong in basics
 
-### Cloud Technologies
-- **Azure AI Foundry** — [Add level of knowledge, services used, and a real implementation example]
-- **Microsoft Azure** — [Add services, integrations, security, or deployment experience]
-- **Supabase + Vercel** — [Add projects or capabilities]
+### Microsoft Power Platform
+- **Code Apps** — Developed multiple projects using Code Apps with React-based custom UIs.  
+- **Model-Driven Apps** — Developed back-office applications using Model-Driven Apps.  
+- **Dataverse** — Used Dataverse as the primary data source across Power Platform applications.  
+- **Canvas Apps** — Developed applications to digitalize and streamline shipping survey processes.  
+- **RLS and Role-Based Security** — Configured Row-Level Security (RLS) policies and role-based access controls to maintain application and data security.  
+- **Copilot Studio** — Implemented AI-powered vessel and customer onboarding with human-in-the-loop approval processes.  
+- **Power Automate** — Designed and implemented multiple automated flows for scheduled and on-demand actions across Power Platform applications.
 
-### Low-Code and AI Tools
-- **Microsoft Power Platform** — [Power Apps, Power Automate, Dataverse, Power BI: add your level and examples]
-- **Copilot Studio** — [Add agents, workflows, knowledge sources, and integrations]
-- **Outsystems 11** — [Reactive and Traditional Web: add depth, architecture, and integrations]
+### Cloud & AI Technologies
+- **Azure AI Foundry** — Developed AI agents, multi-agent orchestration, and Retrieval-Augmented Generation (RAG) solutions.  
+- **Microsoft Azure** — Worked with Entra ID, Azure Functions, Azure Data Factory, and Azure Logic Apps.  
+- **AWS** — Worked with Lambda, RDS, and Amplify.
 
-### Full-Stack Engineering
-- **.NET / C#** — WPF, REST API integration, NUnit, and reusable components.
-- **Web** — HTML, CSS, JavaScript, REST APIs, and Git.
-- **Databases** — SQL and Entity Framework experience.
+### Low-Code Tools
+- **OutSystems 11** — Developed professional Reactive and Traditional Web applications for banking and logistics use cases.  
+- **Supabase + Vercel** — Developed personal and client projects using cost-efficient hosting and application management solutions.  
+- **Appwrite** — Developed client applications using Appwrite as a centralized platform for UI, database, and server-side actions.
+
+
+### Others
+- **.NET / C#** — Started my career as a .NET Developer, working primarily with WPF for Windows-based applications.  
+- **Web** — HTML, CSS, JavaScript, and React.  
+- **Databases** — MySQL and PostgreSQL.
 
 ## Certifications
 ### Outsystems Associate Reactive Developer (Outsystems 11)
 - Earned certification in Outsystems 11 reactive application development.
 
-### Add certification
-- [Certification name] — [Issuer] · [Year] · [Credential URL]
+### PL 900 - Power Platform Fundamentals
+- Earned certification in Power platform fundamentals
 
-## Selected Projects
-### Demo Instance: [Project name]
-- **What it solves:** [Describe the business problem and the users.]
-- **Built with:** [Technology stack]
-- [Open application](https://example.com) · [View GitHub repository](https://github.com/your-github-username/project)
+## Personal Projects
+### Demo Instance: AkkapamPakkam
+- **What it solves:** Enables local community market to get customers and provide catalog and way for users to add
+- **Built with:** built with React & Postgres and hosted in Supabase and Vercel
+- [Open application](https://akkampakkam.app/) · [View GitHub repository](https://github.com/saravana128/OorKoluthi)
 
-### Demo Instance: [Project name]
-- **What it solves:** [Describe the business problem and the users.]
-- **Built with:** [Technology stack]
-- [Open application](https://example.com) · [View GitHub repository](https://github.com/your-github-username/project)
+### Demo Instance: GuitarBuddy
+- **What it solves:** Online Guitar tutor lesson developed for Guitar instructor with Payment Gateway
+- **Built with:** built with React & Postgres and hosted in Supabase and Vercel
+- [Open application](https://guitarbuddy28.vercel.app/) · [View GitHub repository](https://github.com/saravana128/GuitarBuddy)
 
 ## Who Should Hire Me
-- [Write the kinds of teams, problems, and outcomes where you do your best work.]
-- [Example: Teams modernising operations with Power Platform, AI automation, and practical internal tools.]
+- Enterprise organizations looking for digital or AI transformation, and seeking someone who can take ownership, architect solutions, and deliver them end-to-end.  
+- Companies developing applications on the Power Platform and looking to integrate AI using Copilot Studio or Azure AI Foundry.  
+- Companies looking to migrate applications from OutSystems to other low-code platforms or traditional technology platforms.
 
 ## Who Shouldn't Hire Me
-- [Write an honest boundary about roles, working styles, or expectations that are not a fit.]
-- [Keep this constructive and professional - for example, roles with no scope to improve, automate, or build.]
+- Business-critical data analytics: I can manage and develop straightforward Power BI dashboards, but I have limited experience with Microsoft Fabric and other advanced data analytics platforms.  
+- Organizations looking for expertise in other Dynamics CRM products, such as Dynamics 365 Sales or Finance.
+
